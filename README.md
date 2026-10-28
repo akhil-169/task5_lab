@@ -5,3 +5,7 @@ This project demonstrates Git and GitHub.
 - HTML
 - Git
 - GitHub
+
+## Future Work
+- Add faculty details
+- Add course information
